@@ -4,7 +4,6 @@
     "oceanobs/gliders/IOOS_active_gliders_latest_and_tracks.kml",
     "oceanobs/gliders/IOOS_active_gliders_latest_and_tracks.kmz",
     "oceanobs/gliders/graphs/SG276-20260630T1502_science_72hour.png",
-    "oceanobs/gliders/graphs/bass-20260907T0000_science_72hour.png",
     "oceanobs/gliders/graphs/bios_anna2-20260818T1639_science_72hour.png",
     "oceanobs/gliders/graphs/ce_1137-20260727T1719_science_72hour.png",
     "oceanobs/gliders/graphs/dfo-bumblebee998-20260717T0000_science_72hour.png",
@@ -30,12 +29,12 @@
     "oceanobs/gliders/graphs/ng738-20260713T0000_science_72hour.png",
     "oceanobs/gliders/graphs/osu592-20260915T1700_science_72hour.png",
     "oceanobs/gliders/graphs/ru29-20260623T2102_science_72hour.png",
-    "oceanobs/gliders/graphs/ru34-20260731T1604_science_72hour.png",
     "oceanobs/gliders/graphs/ru37-20260916T2016_science_72hour.png",
-    "oceanobs/gliders/graphs/sedna-20260902T0000_science_72hour.png",
+    "oceanobs/gliders/graphs/sg148-20260722T0000_science_72hour.png",
     "oceanobs/gliders/graphs/sg148-20260722T1939_science_72hour.png",
     "oceanobs/gliders/graphs/sg263-20260831T1514_science_72hour.png",
     "oceanobs/gliders/graphs/sg266-20260313T0916_science_72hour.png",
+    "oceanobs/gliders/graphs/sg511-20260722T0000_science_72hour.png",
     "oceanobs/gliders/graphs/sg511-20260722T1831_science_72hour.png",
     "oceanobs/gliders/graphs/sg623-20260707T0000_science_72hour.png",
     "oceanobs/gliders/graphs/sg625-20260630T0000_science_72hour.png",
@@ -57,7 +56,6 @@
     "oceanobs/gliders/graphs/unit_1091-20260826T0000_science_72hour.png",
     "oceanobs/gliders/graphs/unit_541-20260630T0000_science_72hour.png",
     "oceanobs/gliders/graphs/unit_595-20260724T0000_science_72hour.png",
-    "oceanobs/gliders/graphs/usf-sam-20260908T0000_science_72hour.png",
     "oceanobs/gliders/graphs/uvi_02-20260803T1331_science_72hour.png"
   ]
 }
