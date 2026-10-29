@@ -3,6 +3,7 @@
   "published": [
     "oceanobs/gliders/IOOS_active_gliders_latest_and_tracks.kml",
     "oceanobs/gliders/IOOS_active_gliders_latest_and_tracks.kmz",
+    "oceanobs/gliders/graphs/SG684-20260903T1545_science_72hour.png",
     "oceanobs/gliders/graphs/bios_anna2-20260818T1639_science_72hour.png",
     "oceanobs/gliders/graphs/calanus-20261007T1753_science_72hour.png",
     "oceanobs/gliders/graphs/ce_1137-20260727T1719_science_72hour.png",
